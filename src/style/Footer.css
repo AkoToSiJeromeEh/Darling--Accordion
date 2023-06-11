@@ -1,0 +1,12 @@
+footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    min-height: 10vh;
+    justify-content: center;
+    background-color: rgba(248, 246, 246, 0.048);
+}
+div > small {
+    font-family: Montserrat;
+    font-weight: 400;
+}
